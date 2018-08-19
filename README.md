@@ -7,4 +7,6 @@
 
 3-) Para executar o unittest basta executar o comando "./unittest/unittest".
 
-4-) Caso esteja tudo certo nos testes unitarios, o resultado esperado eh :OK(7).
+4-) Caso esteja tudo certo nos testes unitarios, o resultado esperado eh: 
+    
+    1. OK(7).
