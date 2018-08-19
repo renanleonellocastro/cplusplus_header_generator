@@ -1,3 +1,5 @@
+Biblioteca auxiliar para gerar headers em c++. O executável que será gerado é apenas um exemplo da aplicacão da biblioteca. O software é compilável e executável em sistemas operacionais Linux.
+
 1-) Execute "make" nesse diretorio e entao irá gerar dois arquivos:
 
     1. geradorcpp em bin/
